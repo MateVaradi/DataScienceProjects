@@ -11,7 +11,7 @@ and ![equ](https://latex.codecogs.com/gif.latex?k)
 The two methods for finding an optimal seating arrangement are demonstrated on a small example from Bellows, M., & Peterson, J. L. (2012) and on Game of Thrones network data. A number of important characters from Game of Thrones are chosen and seated at four tables according to the two methods. One of the results is visualized on this graph:
 
 
-![Result on Game of Thrones data](https://github.com/MateVaradi/DataScienceProjects/blob/master/OptimalSeating/got_example_zolp.png)
+![Result on Game of Thrones data](https://github.com/MateVaradi/DataScienceProjects/blob/master/OptimalSeating/got_example_lp.png)
 
 
 Methods used: Zero-one linear programming; Spectral Clustering
