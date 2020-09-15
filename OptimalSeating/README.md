@@ -6,10 +6,11 @@ After inputing certain parameters about the wedding and a connection matrix $C$,
 
 The two methods for finding an optimal seating arrangement are demonstrated on a small example from Bellows, M., & Peterson, J. L. (2012) and on Game of Thrones network data. A number of important characters from Game of Thrones are chosen and seated at four tables according to the two methods.
 
+![equ](https://latex.codecogs.com/gif.latex?log(y)=\beta_0&space;&plus;&space;\beta_1&space;x&space;&plus;&space;u)
 
-![Test Image](https://github.com/matevaradi/DataScienceProjects/OptimalSeating/got_example_spectralclustering.png)
+![Test Image](https://github.com/MateVaradi/DataScienceProjects/OptimalSeating/got_example_spectralclustering.png)
 
-![Test Image](https://github.com/matevaradi/DataScienceProjects/OptimalSeating/got_example_lp.png)
+![Test Image](https://github.com/MateVaradi/DataScienceProjects/OptimalSeating/got_example_lp.png)
 
 
 Methods used: Zero-one linear programming; Spectral Clustering
