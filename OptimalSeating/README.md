@@ -8,10 +8,10 @@ indicates some measure of relatedness between guests ![equ](https://latex.codeco
 and ![equ](https://latex.codecogs.com/gif.latex?k)
 (e.g. number of common friends or simply how much they like each other) the code can be used to plan any wedding. 
 
-The two methods for finding an optimal seating arrangement are demonstrated on a small example from Bellows, M., & Peterson, J. L. (2012) and on Game of Thrones network data. A number of important characters from Game of Thrones are chosen and seated at four tables according to the two methods.
+The two methods for finding an optimal seating arrangement are demonstrated on a small example from Bellows, M., & Peterson, J. L. (2012) and on Game of Thrones network data. A number of important characters from Game of Thrones are chosen and seated at four tables according to the two methods. One of the results is visualized on this graph:
 
 
-![Result on Game of Thrones data](https://github.com/MateVaradi/DataScienceProjects/blob/master/OptimalSeating/got_example_spectralclustering.png)
+![Result on Game of Thrones data](https://github.com/MateVaradi/DataScienceProjects/blob/master/OptimalSeating/got_example_zolp.png)
 
 
 Methods used: Zero-one linear programming; Spectral Clustering
