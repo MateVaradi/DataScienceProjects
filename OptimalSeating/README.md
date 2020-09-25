@@ -15,5 +15,6 @@ The two methods for finding an optimal seating arrangement are demonstrated on a
 
 
 Methods used: Zero-one linear programming; Spectral Clustering
+
 Packages used: numpy, pandas, gurobipy, sklearn, networkx
 
