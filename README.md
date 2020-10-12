@@ -16,3 +16,8 @@ A project created after finishing the Kaggle Learn Course on [Geospatial Analysi
 Curious about Epicurious recipe ratings? 
 
 A project to practice dealing with high-dimensional data and the use of XGBoost.
+
+## [Recognizing clothing items with convolutional neural networks](https://github.com/MateVaradi/DataScienceProjects/tree/master/Fashion-MNIST)
+It's a coat...It's a shirt...It's a pullover?
+
+Trying out a simple convolutional neural network model on the Fashion MNIST dataset by Zalando. 
