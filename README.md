@@ -20,4 +20,4 @@ A project to practice dealing with high-dimensional data and the use of XGBoost.
 ## [Recognizing clothing items with convolutional neural networks](https://github.com/MateVaradi/DataScienceProjects/tree/master/Fashion-MNIST)
 It's a coat...It's a shirt...It's a pullover?
 
-Trying out a simple convolutional neural network model on the Fashion MNIST dataset by Zalando. 
+A mini project after finishing the Kaggle Learn Course on [Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning). I run a simple convolutional neural network model on the Fashion MNIST dataset by Zalando.
