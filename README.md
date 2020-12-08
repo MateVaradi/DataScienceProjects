@@ -17,6 +17,12 @@ Curious about Epicurious recipe ratings?
 
 A project to practice dealing with high-dimensional data and the use of XGBoost.
 
+## [NLP Classification of real and fake disaster tweets](https://github.com/MateVaradi/DataScienceProjects/tree/master/RealOrNot?)
+Can an algorithm differentiate between "It's a disaster, they dropped a bomb on the city" and "It's a disaster, I dropped my avocado toast on the floor"?
+
+Solutions to a [Kaggle practice competition](https://www.kaggle.com/c/nlp-getting-started/overview) inspired by what I learned in the [NLP specialization of deeplearning.ai on Coursera](https://www.coursera.org/specializations/natural-language-processing). 
+
+
 ## [Recognizing clothing items with convolutional neural networks](https://github.com/MateVaradi/DataScienceProjects/tree/master/Fashion-MNIST)
 It's a coat...It's a shirt...It's a pullover?
 
